@@ -341,19 +341,6 @@
           ]
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G6@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5835761,
-            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G6.jar",
-            "MD5": "4a13bb8132744ab7beeff9f076d48125"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "BetterAdvancements-1.16.4-0.1.0.103.jar",
           "name": "BetterAdvancements-1.16.4-0.1.0.103.jar",
           "type": "File",
