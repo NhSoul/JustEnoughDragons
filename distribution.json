@@ -11,7 +11,7 @@
       "id": "JED-1.16.5",
       "name": "Just Enough Dragons",
       "description": "Just Enough Dragons Modpack",
-      "icon": https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/icon.png,
+      "icon": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/icon.png",
       "version": "1.8.9",
       "address": "play.nhsoul.fr:25551",
       "minecraftVersion": "1.16.5",
