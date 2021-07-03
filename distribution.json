@@ -30,7 +30,7 @@
           "artifact": {
             "size": 210679,
             "MD5": "eb630b29b945f5c5f878592b838fca21",
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraftforge/forge/1.16.5-36.0.1/forge-1.16.5-36.0.1.jar"
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraftforge/forge/1.16.5-36.0.1/forge-1.16.5-36.0.1.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 12883,
                 "MD5": "1ac01909add69e6177b428f4aa54cd7f",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/versions/1.16.5-forge-36.0.1/1.16.5-forge-36.0.1.json"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/versions/1.16.5-forge-36.0.1/1.16.5-forge-36.0.1.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 2344292,
                 "MD5": "158ca010ee01489a6b1ae5b4f367d309",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraftforge/forge/1.16.5-36.0.1/forge-1.16.5-36.0.1-universal.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraftforge/forge/1.16.5-36.0.1/forge-1.16.5-36.0.1-universal.jar"
               },
               "subModules": []
             },
@@ -61,7 +61,7 @@
               "artifact": {
                 "size": 4071979,
                 "MD5": "c4e02d582fab4f5612ba1a7d99eea592",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraftforge/forge/1.16.5-36.0.1/forge-1.16.5-36.0.1-client.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraftforge/forge/1.16.5-36.0.1/forge-1.16.5-36.0.1-client.jar"
               },
               "subModules": []
             },
@@ -72,7 +72,7 @@
               "artifact": {
                 "size": 11352644,
                 "MD5": "c5cd180af34edfec1503e254d2b72e0a",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
             },
@@ -83,7 +83,7 @@
               "artifact": {
                 "size": 9118806,
                 "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
               },
               "subModules": []
             },
@@ -94,7 +94,7 @@
               "artifact": {
                 "size": 8428369,
                 "MD5": "dbed747390f81e10cee40500b726431a",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
               },
               "subModules": []
             },
@@ -105,7 +105,7 @@
               "artifact": {
                 "size": 121783,
                 "MD5": "e87284e4421437854ba938179cf803e7",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/org/ow2/asm/asm/9.0/asm-9.0.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/org/ow2/asm/asm/9.0/asm-9.0.jar"
               }
             },
             {
@@ -115,7 +115,7 @@
               "artifact": {
                 "size": 71646,
                 "MD5": "e84f4f465fe607932af0d9ca4b31bce5",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/org/ow2/asm/asm-commons/9.0/asm-commons-9.0.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/org/ow2/asm/asm-commons/9.0/asm-commons-9.0.jar"
               }
             },
             {
@@ -125,7 +125,7 @@
               "artifact": {
                 "size": 52673,
                 "MD5": "3798070ed795cf4aa7efd7f63feec2a2",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/org/ow2/asm/asm-tree/9.0/asm-tree-9.0.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/org/ow2/asm/asm-tree/9.0/asm-tree-9.0.jar"
               }
             },
             {
@@ -135,7 +135,7 @@
               "artifact": {
                 "size": 84857,
                 "MD5": "ddbcaa2262311e04a6b0560787b47da4",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/org/ow2/asm/asm-util/9.0/asm-util-9.0.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/org/ow2/asm/asm-util/9.0/asm-util-9.0.jar"
               }
             },
             {
@@ -145,7 +145,7 @@
               "artifact": {
                 "size": 33439,
                 "MD5": "daed5f6bc67ac8f01bebeca0bb72a369",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/org/ow2/asm/asm-analysis/9.0/asm-analysis-9.0.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/org/ow2/asm/asm-analysis/9.0/asm-analysis-9.0.jar"
               }
             },
             {
@@ -155,7 +155,7 @@
               "artifact": {
                 "size": 126196,
                 "MD5": "dae78c82a7ca7599ae6a10938cd22d58",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/cpw/mods/modlauncher/8.0.9/modlauncher-8.0.9.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/cpw/mods/modlauncher/8.0.9/modlauncher-8.0.9.jar"
               }
             },
             {
@@ -165,7 +165,7 @@
               "artifact": {
                 "size": 1921,
                 "MD5": "c5c05d52fcef5479e0ea069f30c6ceb5",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/cpw/mods/grossjava9hacks/1.3.0/grossjava9hacks-1.3.0.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/cpw/mods/grossjava9hacks/1.3.0/grossjava9hacks-1.3.0.jar"
               }
             },
             {
@@ -175,7 +175,7 @@
               "artifact": {
                 "size": 76586,
                 "MD5": "ada4c365c3d0de73c05a94010432b547",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
               }
             },
             {
@@ -185,7 +185,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -195,7 +195,7 @@
               "artifact": {
                 "size": 42873,
                 "MD5": "84c4758e6139b70146104be5bb1300b5",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
               }
             },
             {
@@ -205,7 +205,7 @@
               "artifact": {
                 "size": 20172,
                 "MD5": "8f1f6942d17d88d704324e8000666a1a",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
               }
             },
             {
@@ -215,7 +215,7 @@
               "artifact": {
                 "size": 25448,
                 "MD5": "b6b7ea171ec27fc5015bb5e3b79b696a",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraftforge/coremods/4.0.3/coremods-4.0.3.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraftforge/coremods/4.0.3/coremods-4.0.3.jar"
               }
             },
             {
@@ -225,7 +225,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -235,7 +235,7 @@
               "artifact": {
                 "size": 199091,
                 "MD5": "243fc0b7f1e509aaca3550c14d8f60af",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/com/electronwill/night-config/core/3.6.2/core-3.6.2.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/com/electronwill/night-config/core/3.6.2/core-3.6.2.jar"
               }
             },
             {
@@ -245,7 +245,7 @@
               "artifact": {
                 "size": 31152,
                 "MD5": "7b2339065e252b1c187d39351d84a09f",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/com/electronwill/night-config/toml/3.6.2/toml-3.6.2.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/com/electronwill/night-config/toml/3.6.2/toml-3.6.2.jar"
               }
             },
             {
@@ -255,7 +255,7 @@
               "artifact": {
                 "size": 732926,
                 "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
               }
             },
             {
@@ -265,7 +265,7 @@
               "artifact": {
                 "size": 55051,
                 "MD5": "89e95013b11f347e48c0525965600404",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/org/apache/maven/maven-artifact/3.6.0/maven-artifact-3.6.0.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/org/apache/maven/maven-artifact/3.6.0/maven-artifact-3.6.0.jar"
               }
             },
             {
@@ -275,7 +275,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -285,7 +285,7 @@
               "artifact": {
                 "size": 266283,
                 "MD5": "3f7ee51e3dd0830de799dae0b90243dd",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar"
               }
             },
             {
@@ -295,7 +295,7 @@
               "artifact": {
                 "size": 1629585,
                 "MD5": "c8bd8b5c5aaaa07a3dcbf57de01c9266",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar"
               }
             },
             {
@@ -305,7 +305,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -315,7 +315,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -325,7 +325,7 @@
               "artifact": {
                 "size": 935252,
                 "MD5": "1f0c4faa50360623e49b9c2522edc602",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar"
               }
             },
             {
@@ -335,7 +335,7 @@
               "artifact": {
                 "size": 2194053,
                 "MD5": "975e4d1fe19775355426e302a21b11fd",
-                "url": "http://ldfghdfgvdhfghvdfghvdfg/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1/nashorn-core-compat-15.1.1.jar"
+                "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1/nashorn-core-compat-15.1.1.jar"
               }
             }
           ]
@@ -346,7 +346,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3390127,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/[1.16]compressedblocks-5.0.3.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/[1.16]compressedblocks-5.0.3.jar",
             "MD5": "760e8d03d392ffa771e110154efdd186"
           }
         },
@@ -356,7 +356,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 274250,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/architectury-1.4.100-forge.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/architectury-1.4.100-forge.jar",
             "MD5": "57f443d4fcf45afd8e9d413faa495d2e"
           }
         },
@@ -366,7 +366,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10315,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/automaticdoors_1.16.5-1.4.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/automaticdoors_1.16.5-1.4.jar",
             "MD5": "159affe7ffe12bb537aaaeb9f818528c"
           }
         },
@@ -376,7 +376,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8981,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/bamboospreads_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/bamboospreads_1.16.5-1.1.jar",
             "MD5": "d4309784d0337b6e2852e37eb60a92b6"
           }
         },
@@ -386,7 +386,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10112,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/betbeacpl_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/betbeacpl_1.16.5-1.1.jar",
             "MD5": "5ecaaaf2daf5fe68a989221316d9caa2"
           }
         },
@@ -396,7 +396,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10896,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/betconduitpl_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/betconduitpl_1.16.5-1.1.jar",
             "MD5": "163aa70698adc1e3e7ccb6fd7e2cf0f1"
           }
         },
@@ -406,7 +406,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 62890,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/BetterAdvancements-1.16.4-0.1.0.103.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/BetterAdvancements-1.16.4-0.1.0.103.jar",
             "MD5": "e39af4a90ce1f4bedd9df7b80ec6ce20"
           }
         },
@@ -416,7 +416,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 33026,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/betterwithminecolonies-1.16.4-1.16.17.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/betterwithminecolonies-1.16.4-1.16.17.jar",
             "MD5": "8a0e1103c6e24260851e68ca496632f6"
           }
         },
@@ -426,7 +426,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7657,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/biggerspongeabsorptionradius_1.16.5-1.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/biggerspongeabsorptionradius_1.16.5-1.0.jar",
             "MD5": "7f93b9fb5c2f86c334a6bc4336eaec9c"
           }
         },
@@ -436,7 +436,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 309035,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/Bookshelf-1.16.5-10.0.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/Bookshelf-1.16.5-10.0.1.jar",
             "MD5": "5732e807d71a28a26d0ee21764779afc"
           }
         },
@@ -446,7 +446,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7211,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/bottleyourxp_1.16.5-1.3.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/bottleyourxp_1.16.5-1.3.jar",
             "MD5": "0f8c51b40b817b545bf55140260da0d1"
           }
         },
@@ -456,7 +456,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8590,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/breedablekr_1.16.5-1.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/breedablekr_1.16.5-1.2.jar",
             "MD5": "1aebde289bd6e993512856820837d8c5"
           }
         },
@@ -466,7 +466,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 61190,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/buildersbackpacks-0.0.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/buildersbackpacks-0.0.2.jar",
             "MD5": "89eab173e6d590207d1bb096da36485f"
           }
         },
@@ -476,7 +476,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11423,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/bwncr-1.16.4-3.9.16.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/bwncr-1.16.4-3.9.16.jar",
             "MD5": "db75c5367181c6ef43860547d3d776ed"
           }
         },
@@ -486,7 +486,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1831984,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/cc-tweaked-1.16.4-1.95.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/cc-tweaked-1.16.4-1.95.2.jar",
             "MD5": "1fb362b1df96fa95d5b79cee92779ee9"
           }
         },
@@ -496,7 +496,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7893067,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/christmasfestivity-1.3.5-1.16.4.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/christmasfestivity-1.3.5-1.16.4.jar",
             "MD5": "d5e76d5b4cbc3e23028b12abdc1b2fd7"
           }
         },
@@ -506,7 +506,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 418916,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/citadel-1.5.3.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/citadel-1.5.3.jar",
             "MD5": "3cdb8774c50443344f23d9ee46b5c9fc"
           }
         },
@@ -516,7 +516,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 400884,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/cloth-config-forge-4.1.3.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/cloth-config-forge-4.1.3.jar",
             "MD5": "673ed294714a3acfcd6bfd9205447f76"
           }
         },
@@ -526,7 +526,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 111475,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/collective-1.16.5-1.53.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/collective-1.16.5-1.53.jar",
             "MD5": "8002fc88250bcd36c59b6d605942c6fb"
           }
         },
@@ -536,7 +536,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7556,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/conduitsprdrowned_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/conduitsprdrowned_1.16.5-1.1.jar",
             "MD5": "05b70de5f8d3624d502655f760ed3b87"
           }
         },
@@ -546,7 +546,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6636,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/confdespawntimer_1.16.5-1.3.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/confdespawntimer_1.16.5-1.3.jar",
             "MD5": "0ebf0e8a575ebbd11e2268d81e8cc999"
           }
         },
@@ -556,7 +556,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40747,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/Controlling-7.0.0.12.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/Controlling-7.0.0.12.jar",
             "MD5": "b05991eac6057c4dc37454acf0bb83cf"
           }
         },
@@ -566,7 +566,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 78663,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/CosmeticArmorReworked-1.16.5-v1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/CosmeticArmorReworked-1.16.5-v1.jar",
             "MD5": "de87d00af017505cd9affff73044f03f"
           }
         },
@@ -576,7 +576,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 46463,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/CraftingCraft_1.16.3-9.2.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/CraftingCraft_1.16.3-9.2.0.jar",
             "MD5": "be940a3e0dc3a58815210e7d1fcabf8f"
           }
         },
@@ -586,7 +586,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 110838,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/CraftingTweaks_1.16.3-12.2.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/CraftingTweaks_1.16.3-12.2.0.jar",
             "MD5": "b6c7c9648cb27dda917d4ef720fb883f"
           }
         },
@@ -596,7 +596,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1853169,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/CraftTweaker-1.16.5-7.1.0.106.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/CraftTweaker-1.16.5-7.1.0.106.jar",
             "MD5": "03b34c9818b0e57a96f18948c5e18ac1"
           }
         },
@@ -606,7 +606,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7260,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/cryingghasts_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/cryingghasts_1.16.5-1.1.jar",
             "MD5": "a68aaa835a4031f11c6258309a4e80e8"
           }
         },
@@ -616,7 +616,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6919,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/cyclepaintings_1.16.5-1.4.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/cyclepaintings_1.16.5-1.4.jar",
             "MD5": "28cb95afa0412b5a004abc015af91171"
           }
         },
@@ -626,7 +626,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 157255,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/dankstorage-3.11b.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/dankstorage-3.11b.jar",
             "MD5": "c22bf1546b25e8a47cd7606edfc4e845"
           }
         },
@@ -636,7 +636,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14936,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/DefaultOptions_1.16.3-12.2.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/DefaultOptions_1.16.3-12.2.0.jar",
             "MD5": "f4351349b9d561d78816fbade7caed80"
           }
         },
@@ -646,7 +646,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5507,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/desiredservers-1.16.4-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/desiredservers-1.16.4-1.0.1.jar",
             "MD5": "59195ff0131da3861869d077b9dfc445"
           }
         },
@@ -656,7 +656,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8521,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/despawningeggshatch_1.16.5-2.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/despawningeggshatch_1.16.5-2.0.jar",
             "MD5": "f1d99dba0a7024983178c9d350899c97"
           }
         },
@@ -666,7 +666,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 341856,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/diamondglass-1.16.4-4.0.25.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/diamondglass-1.16.4-4.0.25.jar",
             "MD5": "ddb841d8a8213db14b604aca4560bb4b"
           }
         },
@@ -676,7 +676,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4652,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/dismountentity_1.16.5-1.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/dismountentity_1.16.5-1.2.jar",
             "MD5": "b60216347aa0e017ee0e07889b8ef11b"
           }
         },
@@ -686,7 +686,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8075,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/doubledoors_1.16.5-2.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/doubledoors_1.16.5-2.1.jar",
             "MD5": "0b4c62f016be51794c78ba66789690cb"
           }
         },
@@ -696,7 +696,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5514,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/dragondropselytra_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/dragondropselytra_1.16.5-1.1.jar",
             "MD5": "e71a0d8f800708f7720be5bac4b2ae5e"
           }
         },
@@ -706,7 +706,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16393,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/dragonenchants-1.0.0-alpha.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/dragonenchants-1.0.0-alpha.1.jar",
             "MD5": "3a0f400ca954db23b7e65f282ae1ef43"
           }
         },
@@ -716,7 +716,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10519,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/easyelytrato_1.16.5-1.5.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/easyelytrato_1.16.5-1.5.jar",
             "MD5": "e7bad22d6ce4e379e38c9a733635f9fa"
           }
         },
@@ -726,7 +726,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12496,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/edibles_1.16.5-2.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/edibles_1.16.5-2.0.jar",
             "MD5": "40dd2ef3a4cb1bf0bb8f15a5dc37de4e"
           }
         },
@@ -736,7 +736,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 41218,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/eleklib-1.16.5-1.4.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/eleklib-1.16.5-1.4.1.jar",
             "MD5": "a9291c7c18e41a695d12abe8254fdcf4"
           }
         },
@@ -746,7 +746,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 115818,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/EnchantmentDescriptions-1.16.4-6.0.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/EnchantmentDescriptions-1.16.4-6.0.2.jar",
             "MD5": "fb88330cbb24dc0ed50b30abc3d8c715"
           }
         },
@@ -756,7 +756,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7979,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/entityinfo_1.16.5-1.3.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/entityinfo_1.16.5-1.3.jar",
             "MD5": "232029bc0741ec6d988e5dfa32fe305f"
           }
         },
@@ -766,7 +766,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11919,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/erodingstoneentities_1.16.5-2.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/erodingstoneentities_1.16.5-2.0.jar",
             "MD5": "6d023cbdb46759a616fb0b5b2f10544b"
           }
         },
@@ -776,7 +776,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5415,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/extendedbonemeal_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/extendedbonemeal_1.16.5-1.1.jar",
             "MD5": "a326739b9b9cdd3a82472169fd066b5f"
           }
         },
@@ -786,7 +786,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8169,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/extendedcreativeinventory_1.16.5-1.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/extendedcreativeinventory_1.16.5-1.0.jar",
             "MD5": "5799541e160e9b8efd60e2e7b33c91f7"
           }
         },
@@ -796,7 +796,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8064,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/extractpoison_1.16.5-1.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/extractpoison_1.16.5-1.2.jar",
             "MD5": "09abf0d94f0301c4611e1445d749dabd"
           }
         },
@@ -806,7 +806,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5306,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/fallthroughslime_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/fallthroughslime_1.16.5-1.1.jar",
             "MD5": "d936a29639ab1fd1476d5be8daef067f"
           }
         },
@@ -816,7 +816,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 449554,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/fancymenu_1.7.0_MC_1.16.2-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/fancymenu_1.7.0_MC_1.16.2-1.16.5.jar",
             "MD5": "8dce4776db7180aba896f455505f21e6"
           }
         },
@@ -826,7 +826,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7374,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/fixedanvilrepaircost_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/fixedanvilrepaircost_1.16.5-1.1.jar",
             "MD5": "9e2d4adc5055bfc1737acd7a3b7904e9"
           }
         },
@@ -836,7 +836,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 298140,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/ftb-chunks-1604.2.2.61.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/ftb-chunks-1604.2.2.61.jar",
             "MD5": "f390725391b677479dc979a66f86f275"
           }
         },
@@ -846,7 +846,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 73670,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/ftb-essentials-1604.1.0.13.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/ftb-essentials-1604.1.0.13.jar",
             "MD5": "a5686bf85c553b047d827b5c5539b69b"
           }
         },
@@ -856,7 +856,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 419863,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/ftb-gui-library-1604.2.0.30-forge.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/ftb-gui-library-1604.2.0.30-forge.jar",
             "MD5": "8d979d497399bbac41fa5d139009a2cb"
           }
         },
@@ -866,7 +866,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 825236,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/ftb-quests-1604.1.1.21.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/ftb-quests-1604.1.1.21.jar",
             "MD5": "acfa1b4c6d162484a24fceaa2193e807"
           }
         },
@@ -876,7 +876,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 64753,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/ftb-teams-1604.1.0.14-forge.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/ftb-teams-1604.1.0.14-forge.jar",
             "MD5": "f7f3585970682550f9de2c03c0b33cf3"
           }
         },
@@ -886,7 +886,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 50039,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/ftb-ultimine-1603.1.1.13.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/ftb-ultimine-1603.1.1.13.jar",
             "MD5": "c5e2b07bd29548ec4bf737e357798a15"
           }
         },
@@ -896,7 +896,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5149,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/fullbrightnesstoggle_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/fullbrightnesstoggle_1.16.5-1.1.jar",
             "MD5": "0e329b0b3187573320a10b1277c4a40d"
           }
         },
@@ -906,7 +906,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4999,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/grassseeds_1.16.5-1.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/grassseeds_1.16.5-1.2.jar",
             "MD5": "0973c01c6789327d343699bd9c5614f0"
           }
         },
@@ -916,7 +916,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 213579,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/gravestone-1.16.5-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/gravestone-1.16.5-1.0.0.jar",
             "MD5": "2defff8d1efc6d0f58dce2fa35d3177e"
           }
         },
@@ -926,7 +926,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10019,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/grindstonesharpertools_1.16.5-1.4.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/grindstonesharpertools_1.16.5-1.4.jar",
             "MD5": "cff6f0c31b41d9f4b2a164912692041e"
           }
         },
@@ -936,7 +936,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9300,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/healingcf_1.16.5-3.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/healingcf_1.16.5-3.1.jar",
             "MD5": "ccefdf8521ae247c459fe9b671668c68"
           }
         },
@@ -946,7 +946,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16071,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/healingsoup_1.16.5-2.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/healingsoup_1.16.5-2.1.jar",
             "MD5": "70f522f56518b96d868993e5691cde9a"
           }
         },
@@ -956,7 +956,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24585308,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/iceandfire-2.1.3-1.16.4.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/iceandfire-2.1.3-1.16.4.jar",
             "MD5": "fda55afdf15d9f99c49b8ab9ab344c4d"
           }
         },
@@ -966,7 +966,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 69906,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/invtweaks-1.16.4-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/invtweaks-1.16.4-1.0.1.jar",
             "MD5": "a54b1b1241d4643abefc1d42c6e95feb"
           }
         },
@@ -976,7 +976,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 202971,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/ironchest-1.16.4-11.2.10.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/ironchest-1.16.4-11.2.10.jar",
             "MD5": "d4a59f3247875a2e3574b1c96e1832a3"
           }
         },
@@ -986,7 +986,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 94396,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/item-filters-1605.2.3.20-forge.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/item-filters-1605.2.3.20-forge.jar",
             "MD5": "e3fb18ba7b6a683ead0990b1ccc97eaf"
           }
         },
@@ -996,7 +996,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20061488,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/Jellyfishing-1.6.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/Jellyfishing-1.6.2.jar",
             "MD5": "c9d880ecc34cdf0d0df8bd353fce132c"
           }
         },
@@ -1006,7 +1006,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5212,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/jumpoverfences-1.16.4-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/jumpoverfences-1.16.4-1.0.1.jar",
             "MD5": "8e84d7e9f108ef2806e9f7b923b20a80"
           }
         },
@@ -1016,7 +1016,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6762,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/kelpfertilizer_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/kelpfertilizer_1.16.5-1.1.jar",
             "MD5": "a46edf7173561fa4b8115eea4c09fcfc"
           }
         },
@@ -1026,7 +1026,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 506038,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/konkrete_1.1.2_MC_1.16.2-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/konkrete_1.1.2_MC_1.16.2-1.16.5.jar",
             "MD5": "daf7625fc3e61fdfa95ce791ebb312ab"
           }
         },
@@ -1036,7 +1036,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 68736,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/lavadynamics-1.16.5-7.0.5.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/lavadynamics-1.16.5-7.0.5.jar",
             "MD5": "ec111d5ccc449df101fdea8f2668ca3f"
           }
         },
@@ -1046,7 +1046,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 85172,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/lowtechcrafting-1.16.3-0.2.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/lowtechcrafting-1.16.3-0.2.0.jar",
             "MD5": "e508269e0acbe5b1be6b468fc0c4ccfa"
           }
         },
@@ -1056,7 +1056,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2766544,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/mahoutsukai-1.16.5-v1.27.8.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/mahoutsukai-1.16.5-v1.27.8.jar",
             "MD5": "1ad9d5f84188cea74d9bd761feb4a4c9"
           }
         },
@@ -1066,7 +1066,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 556050,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/mcjtylib-1.16-5.0.15.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/mcjtylib-1.16-5.0.15.jar",
             "MD5": "d7784fd5fa6bfd920ea504b2de6a25a2"
           }
         },
@@ -1076,7 +1076,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4961,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/milkallthemobs_1.16.5-1.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/milkallthemobs_1.16.5-1.2.jar",
             "MD5": "78814094c02853fccdb4056eb7af6d2d"
           }
         },
@@ -1086,7 +1086,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 34996677,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/minecolonies-0.13.587-ALPHA-universal.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/minecolonies-0.13.587-ALPHA-universal.jar",
             "MD5": "bfc3d36218a719afe51bf24af514405e"
           }
         },
@@ -1096,7 +1096,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5335,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/mooshroomspawn_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/mooshroomspawn_1.16.5-1.1.jar",
             "MD5": "b84e1e2a54834cb6677e8dc0e6741124"
           }
         },
@@ -1106,7 +1106,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4022,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/moredragoneggs-1.4.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/moredragoneggs-1.4.jar",
             "MD5": "3a0e82a79edb53ca4a4c32d56ca5bfa6"
           }
         },
@@ -1116,7 +1116,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 243666,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/MoreJellyfish-1.1.4.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/MoreJellyfish-1.1.4.jar",
             "MD5": "ce20410720c4c3b3574738d6b54d4dca"
           }
         },
@@ -1126,7 +1126,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 57648,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/MouseTweaks-2.13-mc1.16.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/MouseTweaks-2.13-mc1.16.2.jar",
             "MD5": "2287f99488f73e8612cd38b01db65612"
           }
         },
@@ -1136,7 +1136,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7334,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/moveboats_1.16.5-1.3.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/moveboats_1.16.5-1.3.jar",
             "MD5": "594b37990575c192ea7a91103c483802"
           }
         },
@@ -1146,7 +1146,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7554,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/moveminecarts_1.16.5-1.4.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/moveminecarts_1.16.5-1.4.jar",
             "MD5": "34ba68878f093bb7afb21a02952d96bc"
           }
         },
@@ -1156,7 +1156,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8776,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/nccreepers_1.16.5-1.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/nccreepers_1.16.5-1.2.jar",
             "MD5": "0cbaf2c1fcc98e31c48013d7034b1616"
           }
         },
@@ -1166,7 +1166,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9785,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/nhacampfire_1.16.5-3.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/nhacampfire_1.16.5-3.0.jar",
             "MD5": "7a5440850aa3e4c53ac190b39bea709f"
           }
         },
@@ -1176,7 +1176,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7603,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/nutritiousmilk_1.16.5-1.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/nutritiousmilk_1.16.5-1.2.jar",
             "MD5": "4cf2f11dae4120c2e21afa4137eaf09b"
           }
         },
@@ -1186,7 +1186,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6046996,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
             "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           },
           "required": {
@@ -1199,7 +1199,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3741,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/paperbooks_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/paperbooks_1.16.5-1.1.jar",
             "MD5": "01124e54ccabe57718ab8669a44d2594"
           }
         },
@@ -1209,7 +1209,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12643,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/placeableblazerods_1.16.5-1.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/placeableblazerods_1.16.5-1.0.jar",
             "MD5": "a51a13deef0d43a3069911f7f5284e75"
           }
         },
@@ -1219,7 +1219,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 102026,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/Placebo-1.16.4-4.4.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/Placebo-1.16.4-4.4.1.jar",
             "MD5": "ff9b60c80d2cb36f9bca8d34c7fdcb19"
           }
         },
@@ -1229,7 +1229,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6669,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/rainbegoneritual_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/rainbegoneritual_1.16.5-1.1.jar",
             "MD5": "9be061caf1551f3147a2c395a5bdbd23"
           }
         },
@@ -1239,7 +1239,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8637,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/randomsheepcolours_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/randomsheepcolours_1.16.5-1.1.jar",
             "MD5": "8a3e8eb244cf32792c9c1a19a5ea567b"
           }
         },
@@ -1249,7 +1249,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10871,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/realisticbees_1.16.5-1.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/realisticbees_1.16.5-1.0.jar",
             "MD5": "a9aa25a9ef223af5e81f0bc4175a71bc"
           }
         },
@@ -1259,7 +1259,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 38126,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/ReAuth-1.16-Forge-3.9.3.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/ReAuth-1.16-Forge-3.9.3.jar",
             "MD5": "3b3095744e922d89ab6443529865df43"
           }
         },
@@ -1269,7 +1269,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3133091,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/refinedstorage-1.9.9.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/refinedstorage-1.9.9.jar",
             "MD5": "425e3a7a42784e77779fe863c3a954f5"
           }
         },
@@ -1279,7 +1279,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30061,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/refinedstorageaddons-0.7.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/refinedstorageaddons-0.7.2.jar",
             "MD5": "8dbe90b710de028e72e3588a8c371333"
           }
         },
@@ -1289,7 +1289,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8130,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/replantingcrops_1.16.5-2.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/replantingcrops_1.16.5-2.0.jar",
             "MD5": "f2e39891dff7dc8e253a38ee92e12a18"
           }
         },
@@ -1299,7 +1299,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 46429,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/restrictions-1.16-3.0.3.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/restrictions-1.16-3.0.3.jar",
             "MD5": "9b056aeaf2a7f0b1e09f6fb2f484f455"
           }
         },
@@ -1309,7 +1309,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 410427,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/rftoolsbase-1.16-2.0.8.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/rftoolsbase-1.16-2.0.8.jar",
             "MD5": "610659fc2e0ea9c58c5d636f49c80b29"
           }
         },
@@ -1319,7 +1319,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 613205,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/rftoolscontrol-1.16-4.0.6.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/rftoolscontrol-1.16-4.0.6.jar",
             "MD5": "4bb90d54082477ff52d34982927c0d02"
           }
         },
@@ -1329,7 +1329,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 567316,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/rftoolspower-1.16-3.0.8.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/rftoolspower-1.16-3.0.8.jar",
             "MD5": "dd3e88fe784762e69133803f20833233"
           }
         },
@@ -1339,7 +1339,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1434101,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/rftoolsutility-1.16-3.0.19.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/rftoolsutility-1.16-3.0.19.jar",
             "MD5": "ebe044d7a0812ea58b4eca40cc63e9b9"
           }
         },
@@ -1349,7 +1349,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8878,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/rndbmflowers_1.16.5-1.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/rndbmflowers_1.16.5-1.2.jar",
             "MD5": "5f2daa12f88e59984165bee4c7b5fb66"
           }
         },
@@ -1359,7 +1359,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1111421,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/RoughlyEnoughItems-Forge-5.8.11+20210123-1121.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/RoughlyEnoughItems-Forge-5.8.11+20210123-1121.jar",
             "MD5": "36a4031a6cf082f1c5d29c5e3e798cc7"
           }
         },
@@ -1369,7 +1369,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5831,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/scaffoldingdropsnearby_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/scaffoldingdropsnearby_1.16.5-1.1.jar",
             "MD5": "4d97a26daf6354fccacee96cc5648544"
           }
         },
@@ -1379,7 +1379,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 98956,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/ServerTabInfo-1.16.4-1.3.3.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/ServerTabInfo-1.16.4-1.3.3.jar",
             "MD5": "492dfbadba659ddb8272007837deb2c2"
           }
         },
@@ -1389,7 +1389,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8994,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/setworldsp_1.16.5-1.4.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/setworldsp_1.16.5-1.4.jar",
             "MD5": "48f293a2268108f27362e556eef8dad3"
           }
         },
@@ -1399,7 +1399,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5573,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/shutupexperimentalsettings-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/shutupexperimentalsettings-1.0.1.jar",
             "MD5": "70633e7c4da42834788fc11619369535"
           }
         },
@@ -1409,7 +1409,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7890,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/skeletonhs_1.16.5-1.4.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/skeletonhs_1.16.5-1.4.jar",
             "MD5": "77f7c66f68d911440cf9cef38f36710b"
           }
         },
@@ -1419,7 +1419,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7700,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/sleepsooner_1.16.5-2.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/sleepsooner_1.16.5-2.2.jar",
             "MD5": "5d3be97b3f25df5b01559a5e480359d5"
           }
         },
@@ -1429,7 +1429,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11939,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/smallernp_1.16.5-1.4.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/smallernp_1.16.5-1.4.jar",
             "MD5": "6c6428e557fa6e0dd28d13b8058cdd2d"
           }
         },
@@ -1439,7 +1439,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7329,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/snowbfrmobs_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/snowbfrmobs_1.16.5-1.1.jar",
             "MD5": "cf26a45bfe04293d8ba209f2d75a8362"
           }
         },
@@ -1449,7 +1449,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4533,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/softerhayb_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/softerhayb_1.16.5-1.1.jar",
             "MD5": "db3ec3ca33120ab3acbd265b9b719332"
           }
         },
@@ -1459,7 +1459,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7429,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/spidersprwebs_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/spidersprwebs_1.16.5-1.1.jar",
             "MD5": "59e0b1452a5578a70be8e86576629c9c"
           }
         },
@@ -1469,7 +1469,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7359,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/stackrefill_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/stackrefill_1.16.5-1.1.jar",
             "MD5": "896699a4b293f0f73e5f2d76f555033c"
           }
         },
@@ -1479,7 +1479,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 494228,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/StorageDrawers-1.16.3-8.2.2.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/StorageDrawers-1.16.3-8.2.2.jar",
             "MD5": "b343df766a3b8229b8976eac515c3868"
           }
         },
@@ -1489,7 +1489,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5185119,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/structurize-0.13.113-ALPHA-universal.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/structurize-0.13.113-ALPHA-universal.jar",
             "MD5": "15eb0d14143b532e8a4fcac2081796d3"
           }
         },
@@ -1499,7 +1499,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 307009,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/theoneprobe-1.16-3.0.6.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/theoneprobe-1.16-3.0.6.jar",
             "MD5": "8d16e423772493199f659286a21f7394"
           }
         },
@@ -1509,7 +1509,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23929,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/Toast-Control-1.16.4-4.3.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/Toast-Control-1.16.4-4.3.1.jar",
             "MD5": "4a67b37bfa92931f9cb27b704b9b2d74"
           }
         },
@@ -1519,7 +1519,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15544,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/treeharvester_1.16.5-2.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/treeharvester_1.16.5-2.0.jar",
             "MD5": "759dce7c306cdae2ac4746404746fd65"
           }
         },
@@ -1529,7 +1529,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 469598,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/u_team_core-1.16.4-3.1.17.192.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/u_team_core-1.16.4-3.1.17.192.jar",
             "MD5": "f478abde90f7d1e581a5cd390a2e7235"
           }
         },
@@ -1539,7 +1539,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4979,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/underwaterench_1.16.5-1.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/underwaterench_1.16.5-1.1.jar",
             "MD5": "825d781d9b0a48387878e996307ccf17"
           }
         },
@@ -1549,7 +1549,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 67375,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/useful_dragon_eggs-1.16.4-1.0.1.5.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/useful_dragon_eggs-1.16.4-1.0.1.5.jar",
             "MD5": "bdbf1fdfb4c9e2c330d88fd407f4e1a3"
           }
         },
@@ -1559,7 +1559,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8007,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/villagerdeathm_1.16.5-1.5.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/villagerdeathm_1.16.5-1.5.jar",
             "MD5": "4dfa657d7efc69fc23b64f0f84b52e8c"
           }
         },
@@ -1569,7 +1569,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11051,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/villagernames_1.16.5-2.5.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/villagernames_1.16.5-2.5.jar",
             "MD5": "4a311d3c690640b1ebf505c48d8aed76"
           }
         },
@@ -1579,7 +1579,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8797,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/weakerspiderwebs_1.16.5-1.5.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/weakerspiderwebs_1.16.5-1.5.jar",
             "MD5": "13a0f5740ba8ec61b2b05836807650ce"
           }
         },
@@ -1589,7 +1589,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23158,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/wooltweaks_1.16.5-1.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/wooltweaks_1.16.5-1.0.jar",
             "MD5": "163e29e0d6f58992d0bfd5b645f0ef67"
           }
         },
@@ -1599,7 +1599,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 869404,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/WorldEdit-CUI-FE3-1.16.4-3.0.8.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/WorldEdit-CUI-FE3-1.16.4-3.0.8.jar",
             "MD5": "c9d3c720967584398008d34321768c1b"
           }
         },
@@ -1609,7 +1609,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4309452,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/worldedit-forge-mc1.16.3-7.2.2-dist.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/worldedit-forge-mc1.16.3-7.2.2-dist.jar",
             "MD5": "3332fb80aa1f00c453f06b068d83fd91"
           }
         },
@@ -1619,7 +1619,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22632,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/WorldPreGenerator-1.16.5-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/WorldPreGenerator-1.16.5-1.0.0.jar",
             "MD5": "df21771d4f55488405a610ef989f3f98"
           }
         },
@@ -1629,7 +1629,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 536810,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/xnet-1.16-3.0.10.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/xnet-1.16-3.0.10.jar",
             "MD5": "2746de06781f08cf0ea4611562f354d3"
           }
         },
@@ -1639,7 +1639,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2845,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/yisthereautojump-1.16.4-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/yisthereautojump-1.16.4-1.0.1.jar",
             "MD5": "5e23610f17fa26b91ff33464b86d70c5"
           }
         },
@@ -1649,7 +1649,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7853,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/zombiehs_1.16.5-2.5.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/zombiehs_1.16.5-2.5.jar",
             "MD5": "179bd257b07d5d9c28e7a273c04a2618"
           }
         },
@@ -1659,7 +1659,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4339,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/forgemods/required/zombieproofdoors_1.16.5-1.0.jar",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/forgemods/required/zombieproofdoors_1.16.5-1.0.jar",
             "MD5": "123fc643aa2c4132b39bb7a354e665dc"
           }
         },
@@ -1669,7 +1669,7 @@
           "type": "File",
           "artifact": {
             "size": 2762842,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/files/ressL.zip",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/files/ressL.zip",
             "MD5": "73d3842d3d120f0d5b92b004c4c1b470",
             "path": "ressL.zip"
           }
@@ -1680,7 +1680,7 @@
           "type": "File",
           "artifact": {
             "size": 101,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/files/scripts/campfire.zs",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/files/scripts/campfire.zs",
             "MD5": "c5b2956c90527a44b52f198f9478ce25",
             "path": "scripts/campfire.zs"
           }
@@ -1691,7 +1691,7 @@
           "type": "File",
           "artifact": {
             "size": 87,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/files/scripts/smoker.zs",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/files/scripts/smoker.zs",
             "MD5": "e262a2e667483d2f06c0d95014a8732d",
             "path": "scripts/smoker.zs"
           }
@@ -1702,7 +1702,7 @@
           "type": "File",
           "artifact": {
             "size": 90,
-            "url": "http://ldfghdfgvdhfghvdfghvdfg/servers/JED-1.16.5/files/scripts/stonecutter.zs",
+            "url": "https://raw.githubusercontent.com/NhSoul/JustEnoughDragons/master/servers/JED-1.16.5/files/scripts/stonecutter.zs",
             "MD5": "04b47e1dfa21a7874aa06512f0c53684",
             "path": "scripts/stonecutter.zs"
           }
